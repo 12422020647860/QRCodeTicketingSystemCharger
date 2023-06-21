@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QRCodeTicketingSystemCharger/static/css/main.e6c13ad2.css",
+    "main.js": "/QRCodeTicketingSystemCharger/static/js/main.a35a36dd.js",
+    "static/js/787.350f0f58.chunk.js": "/QRCodeTicketingSystemCharger/static/js/787.350f0f58.chunk.js",
+    "index.html": "/QRCodeTicketingSystemCharger/index.html",
+    "main.e6c13ad2.css.map": "/QRCodeTicketingSystemCharger/static/css/main.e6c13ad2.css.map",
+    "main.a35a36dd.js.map": "/QRCodeTicketingSystemCharger/static/js/main.a35a36dd.js.map",
+    "787.350f0f58.chunk.js.map": "/QRCodeTicketingSystemCharger/static/js/787.350f0f58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a35a36dd.js"
+  ]
+}
